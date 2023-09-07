@@ -32,9 +32,9 @@ const RIGHT_ARM = (
             width: '10px',
             background: 'black',
             position: 'absolute',
-            top: '150px',
-            right: '-100px',
-            rotate: '-30deg',
+            top: '70px',
+            right: '0px',
+            rotate: '45deg',
             transformOrigin: 'left bottom',
         }}
     />
@@ -47,9 +47,9 @@ const LEFT_ARM = (
             width: '10px',
             background: 'black',
             position: 'absolute',
-            top: '150px',
-            right: '10px',
-            rotate: '30deg',
+            top: '70px',
+            right: '0px',
+            rotate: '-45deg',
             transformOrigin: 'right bottom',
         }}
     />
@@ -62,9 +62,9 @@ const RIGHT_LEG = (
             width: '10px',
             background: 'black',
             position: 'absolute',
-            top: '210px',
-            right: '-90px',
-            rotate: '60deg',
+            top: '115px',
+            right: '-10px',
+            rotate: '135deg',
             transformOrigin: 'left bottom',
         }}
     />
@@ -77,9 +77,9 @@ const LEFT_LEG = (
             width: '10px',
             background: 'black',
             position: 'absolute',
-            top: '210px',
-            right: 0,
-            rotate: '-60deg',
+            top: '115px',
+            right: '10px',
+            rotate: '-135deg',
             transformOrigin: 'right bottom',
         }}
     />
